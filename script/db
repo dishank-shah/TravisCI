@@ -1,0 +1,3 @@
+mongo ai --eval "printjson(db.dropDatabase())"
+
+mongorestore 
