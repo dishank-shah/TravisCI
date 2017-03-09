@@ -8,4 +8,4 @@ node:
 - '0.12'
 script : 
  - "script/install && script/start && script/test && script/db && script/stop"
-//  - "script/db"
+#  - "script/db"
